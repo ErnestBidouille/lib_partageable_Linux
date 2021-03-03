@@ -3,3 +3,7 @@
 ## Objdump
 
 ![objdump](objdump.png)
+
+## Dynamic libraries
+
+![dynamic libraries](dynamic_libs.png)
